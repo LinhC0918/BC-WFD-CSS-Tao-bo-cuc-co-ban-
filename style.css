@@ -1,0 +1,47 @@
+body {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+#head {
+    background: antiquewhite;
+    height: 70px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+#head-link {
+    background: aqua;
+    height: 20px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+#left {
+    background: beige;
+    height: 500px;
+    width: 20%;
+    float: left;
+    margin-right: 5px;
+}
+#right {
+    background: cadetblue;
+    height: 500px;
+    width: 20%;
+    float: right;
+    margin-left: 5px;
+}
+#content {
+    background: bisque;
+    height: 500px;
+    width: 59.15%;
+    float: left;
+    margin-bottom: 5px;
+}
+#footer {
+    background: darkorange;
+    height: 70px;
+    width: 100%;
+    clear: both;
+}
+
